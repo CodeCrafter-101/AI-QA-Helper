@@ -36,7 +36,7 @@ def interface_agent(question: str):
     return response.content
 
 
-# agent.py (only the small change shown)
+# agent.py 
 def answer_agent(question: str):
     system_prompt = """
     You are an AI question answering assistant.
@@ -58,7 +58,7 @@ def answer_agent(question: str):
     {"role": "user", "content": raw_answer}
     ])
 
-    # return the textual content (string)
+
     return response.content
 
 
