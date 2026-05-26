@@ -17,6 +17,7 @@ This project retrieves relevant information from the web and generates accurate,
 ---
 
 ## Project Structure
+
 ```bash
 AI-QA-Helper/
 |
