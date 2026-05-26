@@ -17,7 +17,9 @@ This project retrieves relevant information from the web and generates accurate,
 ---
 
 ## Project Structure
-
+```bash
+AI-QA-Helper/
+|
 ├── chatbot/ # Core chatbot logic
 ├── venv1/ # Virtual environment (should be ignored)
 ├── pycache/ # Compiled Python files
@@ -29,6 +31,7 @@ This project retrieves relevant information from the web and generates accurate,
 ├── tools.py # External tools (Tavily search, etc.)
 ├── requirements.txt
 
+```
 
 ---
 
